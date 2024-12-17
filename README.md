@@ -36,13 +36,13 @@ Go to Sketch > Include Library > Manage Libraries.
 Create a new Google Sheet for logging water usage and yield.
 2. Rename the columns to Number, DateTime, Water Usage (cm) and Water Yield (cm) respectively.
 3. Google Apps Script Setup:
-- Go to Extensions > Apps Script in your Google Sheets.
+ Go to Extensions > Apps Script in your Google Sheets.
 4. Copy and paste the Google Apps Script code provided in the repository.
 5. Save and deploy the script as a Web App:
-6. Go to Deploy > New deployment.
-7. Set the type to Web App.
-8. Configure the access to "Anyone" with the link.
-9. Copy the Web App URL and update your Arduino sketch with it.
+ Go to Deploy > New deployment.
+6. Set the type to Web App.
+7. Configure the access to "Anyone" with the link.
+8. Copy the Web App URL and update your Arduino sketch with it.
 ### Google Apps Script Setup
 
 #### Google Apps Script Code:
