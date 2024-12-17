@@ -35,8 +35,8 @@ Go to Sketch > Include Library > Manage Libraries.
 1. Create a Google Sheet:
 Create a new Google Sheet for logging water usage and yield.
 2. Rename the columns to Number, DateTime, Water Usage (cm) and Water Yield (cm) respectively.
-Google Apps Script Setup:
-3. Go to Extensions > Apps Script in your Google Sheets.
+3. Google Apps Script Setup:
+- Go to Extensions > Apps Script in your Google Sheets.
 4. Copy and paste the Google Apps Script code provided in the repository.
 5. Save and deploy the script as a Web App:
 6. Go to Deploy > New deployment.
@@ -46,7 +46,7 @@ Google Apps Script Setup:
 ### Google Apps Script Setup
 
 #### Google Apps Script Code:
-- Use the provided google_script.gs file in the repository.
+- Use the provided code.gs file in the repository.
 - Ensure the doGet(e) function is correctly handling the incoming data and appending it to the Google Sheet.
 #### Code Explanation
 - ultrasonic() Function: Measures the distance to the water level and calculates water usage and yield.
