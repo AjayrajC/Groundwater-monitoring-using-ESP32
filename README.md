@@ -1,8 +1,8 @@
 # Groundwater-monitoring-using-ESP32
-This project provides a complete solution for real-time groundwater monitoring using an ESP32 microcontroller, Blynk for remote data monitoring, and Google Sheets for logging data. The system measures water levels using an ultrasonic sensor and calculates water usage and remaining water yield. The data is visualized in the Blynk app and logged into Google Sheets for further analysis.
+This project provides a complete solution for real-time groundwater monitoring using an ESP32 microcontroller, Blynk for remote data monitoring and Google Sheets for logging data. The system measures water levels using an ultrasonic sensor and calculates water usage and remaining water yield. The data is visualized in the Blynk app and logged into Google Sheets for further analysis.
 
 ## Hardware Components
-- ESP32 Microcontroller (e.g., ESP32-WROOM-32)
+- ESP32 Microcontroller (ESP32-WROOM-32)
 - HC-SR04 Ultrasonic Sensor
 - Breadboard, Jumper Wires
 - Power Supply (if not using USB for power)
@@ -18,7 +18,7 @@ This project provides a complete solution for real-time groundwater monitoring u
 
 #### Install the ESP32 Board in Arduino IDE:
 - Go to File > Preferences.
-- In the "Additional Board Manager URLs" field, add the following URL:
+- In the "Additional Board Manager URLs" field add the following URL:
 https://dl.espressif.com/dl/package_esp32_index.json
 - Go to Tools > Board > Boards Manager, search for ESP32 and install the package.
 ### Install Required Libraries:
