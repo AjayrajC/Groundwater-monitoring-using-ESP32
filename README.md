@@ -48,9 +48,7 @@ Create a new Google Sheet for logging water usage and yield.
 #### Google Apps Script Code:
 - Use the provided code.gs file in the repository.
 - Ensure the doGet(e) function is correctly handling the incoming data and appending it to the Google Sheet.
-#### Code Explanation
-- ultrasonic() Function: Measures the distance to the water level and calculates water usage and yield.
-- Blynk Integration: Displays the calculated water usage and yield in real-time.
+
 #####  Google Sheets Logging: Sends the data to a Google Sheets document for persistent storage.
 - Uploading Code to ESP32
 - Connect the ESP32 to your computer via USB.
