@@ -63,5 +63,5 @@ Create a new Google Sheet for logging water usage and yield.
 - Google Sheets: Check the Google Sheets to ensure data is being logged correctly.
 ####  Additional Notes
 - Google Sheets Sample: Consider uploading a sample Google Sheet (as a CSV or Google Sheets link) that shows the expected structure.
-- App Script Example: Include the google_script.gs file in the repository for easy setup.
+- App Script Example: Include the code.gs file in the repository for easy setup.
 
