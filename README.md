@@ -61,7 +61,4 @@ Create a new Google Sheet for logging water usage and yield.
 - Serial Monitor: Open the Serial Monitor in Arduino IDE to see real-time water usage and yield data.
 - Blynk App: Monitor your water usage and yield via the Blynk app on your mobile device.
 - Google Sheets: Check the Google Sheets to ensure data is being logged correctly.
-####  Additional Notes
-- Google Sheets Sample: Consider uploading a sample Google Sheet (as a CSV or Google Sheets link) that shows the expected structure.
-- App Script Example: Include the code.gs file in the repository for easy setup.
 
